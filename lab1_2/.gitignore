@@ -1,0 +1,5 @@
+.env
+.ipynb_checkpoints
+debug_copy.ipynb
+__pycache__
+*.pyc
