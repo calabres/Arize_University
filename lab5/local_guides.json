@@ -1,0 +1,47 @@
+[
+    {
+        "city": "Dubai",
+        "interests": [
+            "history",
+            "culture"
+        ],
+        "source": "Local Guide Ahmed",
+        "description": "Visit the Al Fahidi Historical Neighbourhood to see verify traditional wind towers and visit the Coffee Museum. Take an Abra ride across the Creek for 1 AED."
+    },
+    {
+        "city": "Dubai",
+        "interests": [
+            "food",
+            "luxury"
+        ],
+        "source": "Concierge Sarah",
+        "description": "Dine at Pierchic for seafood with views of the Burj Al Arab. For authentic street food, try Al Mallah on 2nd of December Street for shawarma."
+    },
+    {
+        "city": "Dubai",
+        "interests": [
+            "wellness",
+            "outdoors"
+        ],
+        "source": "Yoga Instructor Maya",
+        "description": "Join a sunrise yoga session at Kite Beach. Later, visit the Green Planet biodome to relax among tropical plants."
+    },
+    {
+        "city": "Tokyo",
+        "interests": [
+            "food",
+            "ramen"
+        ],
+        "source": "Foodie Ken",
+        "description": "Skip the main lines and head to Fuunji in Shinjuku for the best tsukemen (dipping noodles)."
+    },
+    {
+        "city": "Tokyo",
+        "interests": [
+            "culture",
+            "history"
+        ],
+        "source": "Historian Yumi",
+        "description": "The Nezu Shrine is a hidden gem with a tunnel of red torii gates similar to Kyoto but much quieter."
+    }
+]
